@@ -1,4 +1,4 @@
-module github.com/graph-gophers/graphql-transport-ws
+module github.com/gameflow-tv/graphql-transport-ws
 
 go 1.15
 

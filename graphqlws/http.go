@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/gameflow-tv/graphql-transport-ws/transport"
 	"github.com/gorilla/websocket"
-	"github.com/graph-gophers/graphql-transport-ws/transport"
 )
 
 type GraphQLService = transport.GraphQLService
